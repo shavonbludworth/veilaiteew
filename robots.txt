@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezeceivei.thomashakanson.com/sitemap.xml
